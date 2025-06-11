@@ -13,7 +13,7 @@
 - In Item page user can add quantity of item to cart instead of click add more and more
   ### 🏠 Homepage
   ![Home Page](./src/Images/1.png)
-  (./src/Images/3png)![2](https://github.com/user-attachments/assets/323a3b0a-0b67-43a5-9643-0d211a638732)
+![2](https://github.com/user-attachments/assets/323a3b0a-0b67-43a5-9643-0d211a638732)
   ![3](https://github.com/user-attachments/assets/b8ad90a3-fd00-44d6-8579-923df2f69fa4)
 ![4](https://github.com/user-attachments/assets/8f8775f2-0533-4602-ab41-3555bf40a374)
 
