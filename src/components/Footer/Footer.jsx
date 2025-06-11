@@ -37,9 +37,9 @@ const Footer = () => {
             <Col md={3} sm={5} className='box'>
               <h2>Contact Us</h2>
               <ul>
-                <li>70 Washington Square South, New York, NY 10012, United States </li>
-                <li>Email: uilib.help@gmail.com</li>
-                <li>Phone: +1 1123 456 780</li>
+                <li>70 Uma Plaza 4 Floor Surat. 394210 </li>
+                <li>Email: chavhanchetan470@gmail.com</li>
+                <li>Phone: 1234567890</li>
               </ul>
             </Col>
           </Row>
