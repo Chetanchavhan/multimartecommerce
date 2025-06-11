@@ -38,8 +38,6 @@ From your command line, first clone this repo:
 # Go into the repository
 $ cd multimart-react-ecommerce
 
-# Remove current origin repository
-$ git remote remove origin
 
 ```
 
