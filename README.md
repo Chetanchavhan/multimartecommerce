@@ -12,9 +12,9 @@
 - User can show total price in cart
 - In Item page user can add quantity of item to cart instead of click add more and more
   ![Home Page](./src/Images/1.png)
-![Home Page](./src/Images/2png)
-![Home Page](./src/Images/3png)
-![Home Page](./src/Images/4ng)
+![Big Discount](./src/Images/2png)
+![ New Arrivals](./src/Images/3png)
+![Footer](./src/Images/4ng)
 
 ## 🚀 What technologies were used?
 
