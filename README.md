@@ -16,7 +16,8 @@
   ### 🛒 Cart Page
 ![Big Discount](./src/Images/2png)
 ### 🏠 New
-![ New Arrivals](./src/Images/3png)
+![ New Arrivals](./src/Images/3png)![2](https://github.com/user-attachments/assets/323a3b0a-0b67-43a5-9643-0d211a638732)
+
 ### 🏠 Footer
 ![Footer](./src/Images/4ng)
 
